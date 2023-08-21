@@ -26,11 +26,3 @@ To contribute, simply submit PRs to add categories to the Actors.md, Techniques.
 
 This will allow the community to expand the project to become more useful over time.
 
-- - -
-
-### Licensing
-
-This project is licensed under the [MIT license](LICENSE).
-
-![MIT License](https://danielmiessler.com/images/mitlicense.png)
-
