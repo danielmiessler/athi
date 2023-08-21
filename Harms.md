@@ -1,0 +1,5 @@
+Misinformation
+Disinformation
+Technical Vulneability
+Hate Language
+Harm Language
